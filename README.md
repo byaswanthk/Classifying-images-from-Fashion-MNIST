@@ -2,7 +2,7 @@
 
 This repository contains code for training a neural network model to classify FashionMNIST images using PyTorch. FashionMNIST is a dataset of Zalando's article images, consisting of 60,000 training examples and 10,000 test examples, each of which is a 28x28 grayscale image belonging to one of 10 classes.
 
-![FashionMNIST Samples](Images/DataSet.jpg)
+![d3defbdcc02d7e8f00899237079e8f7f.png](https://imgtr.ee/images/2023/09/23/d3defbdcc02d7e8f00899237079e8f7f.png)
 
 ## Table of Contents
 
@@ -15,9 +15,6 @@ This repository contains code for training a neural network model to classify Fa
 - [Prediction](#prediction)
 - [Results](#results)
 
-## Introduction
-
-[Add a brief introduction about the project here.]
 
 ## Dataset
 
