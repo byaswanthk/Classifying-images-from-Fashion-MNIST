@@ -6,7 +6,6 @@ This repository contains code for training a neural network model to classify Fa
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Labels](#labels)
 - [Model Architecture](#model-architecture)
@@ -52,6 +51,7 @@ The neural network used for this classification task is a simple feedforward neu
 ## Training
 
 The training of the model is done in two phases, each consisting of 5 epochs. The chosen optimizer is Stochastic Gradient Descent (SGD), and the learning rate is set to 0.1. During training, both training and validation loss and accuracy are monitored.
+![bf3faa1cf149a98d4a9cb61742447643.png](https://imgtr.ee/images/2023/09/23/bf3faa1cf149a98d4a9cb61742447643.png)
 
 ## Evaluation
 
@@ -64,4 +64,5 @@ You can also use the trained model to make predictions on new images. The `predi
 ## Results
 
 After training the model for 10 epochs, it achieves an accuracy of approximately 85% on the validation dataset.
+![27e45efd0bb6361055b9246e6ba6e4a1.png](https://imgtr.ee/images/2023/09/23/27e45efd0bb6361055b9246e6ba6e4a1.png)
 
